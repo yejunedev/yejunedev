@@ -27,43 +27,6 @@
 </a>
 
 </div>
-
----
-
-# 🚀 Projects
-
-| Project | Description |
-|---------|-------------|
-| 🎫 Seat Management | 좌석 관리 시스템 (Node.js + MySQL) |
-| 🐍 Python Project | Python으로 제작한 개인 프로젝트 |
-| 📚 School Project | 학교 프로젝트 |
-
----
-
-# 📊 GitHub Stats
-
-<p align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_ID&show_icons=true&theme=tokyonight"/>
-
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_ID&layout=compact&theme=tokyonight"/>
-
-</p>
-
----
-
-# 🔥 GitHub Activity
-
-<p align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_GITHUB_ID&theme=tokyo-night"/>
-
-</p>
-
----
-
-<div align="center">
-
 ### ⭐ 꾸준히 성장하는 개발자가 되겠습니다.
 
 </div>
