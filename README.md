@@ -16,12 +16,6 @@
 
 <br><br>
 
-## 🌱 Currently Learning
-
-Spring Boot • SQL • Git • REST API
-
-<br>
-
 ## 📫 Contact
 
 <a href="mailto:YOUR_EMAIL@gmail.com">
