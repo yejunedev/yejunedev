@@ -18,11 +18,11 @@
 
 ## 📫 Contact
 
-<a href="mailto:YOUR_EMAIL@gmail.com">
+<a href="mailto:s2553@e-mirim.hs.kr@gmail.com">
 <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
-<a href="https://instagram.com/YOUR_INSTAGRAM">
+<a href="https://instagram.com/jun._.y7">
 <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
 </a>
 
