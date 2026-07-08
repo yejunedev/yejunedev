@@ -24,8 +24,3 @@
 <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
 </a>
 
-<div align="center">
-
-**⭐ 꾸준히 성장하는 개발자가 되겠습니다.**
-
-</div>
